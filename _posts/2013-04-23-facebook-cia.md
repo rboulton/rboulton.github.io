@@ -18,7 +18,7 @@ In particular, note the following phrases:
    confidential information."
 2. "you will not use any confidential information you learn while you’re here
    for anything other than for the purpose of the visit"
-3. "you will not share that confidential information with anyone else.
+3. "you will not share that confidential information with anyone else."
 
 Now, I strongly dislike NDAs: I think they're a blunt instrument, mainly of use
 for intimidation and to cause chilling effects, and that they replace mutual
@@ -65,7 +65,7 @@ This is pretty sneaky, actually; the whole thing is dressed up not to sound
 like a legal document, and buried in the middle of some friendly text saying
 perfectly reasonable things, is an utterly unreasonable and outrageous trap.
 Combine this with the pressure of expectation that you'll just sign a "simple
-NDA", our natural desired not to want to be "difficult", and wanting to be
+NDA", our natural desire not to want to be "difficult", and wanting to be
 allowed to go to an interesting meetup, and its not surprising that most people
 just sign it.
 
