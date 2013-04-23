@@ -8,7 +8,8 @@ title: Facebook CIA madness
 
 <p class="meta">23 April 2013</p>
 
-Take a look at the linked NDA from Facebook:
+Take a look at the linked NDA (or as they call it "Confidential Information
+Acknowledgement") from Facebook:
 [UK_CIA.pdf](http://files.meetup.com/1715272/Facebook%20Site%20Visitor%20NDA.pdf)
 
 In particular, note the following phrases:
