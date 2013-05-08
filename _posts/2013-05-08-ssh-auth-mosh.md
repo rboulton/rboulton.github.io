@@ -42,7 +42,9 @@ accessing it.
 
 Then, I added a line to my `$HOME/.bashrc` file to set the SSH_AUTH_SOCK
 environment variable on login to point to the symlink.  This is run on login,
-after the .ssh/rc file.
+after the .ssh/rc file:
+
+    export SSH_AUTH_SOCK=$HOME/.ssh/ssh_auth_sock
 
 As a result, in my mosh session, the SSH authentication socket used comes from
 whichever ssh connection I last made to the machine.
