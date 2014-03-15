@@ -14,7 +14,7 @@ I'll be surprised if they get much useful information from most such requests,
 but one question jumped out at me as being a symptom of a bad way of thinking
 about how teams of people work:
 
-    "What kept her/him from being the #1 performer on your team?"
+> "What kept her/him from being the #1 performer on your team?"
 
 The idea that you can answer such a question is pernicious.  It implies that
 you think of a team as a collection of individuals, working on separately
