@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Facebook CIA madness
+title: Facebook Confidential Information Acknowledgement
 ---
 
 {{ page.title }}
